@@ -1,2 +1,2 @@
-# MaximaBasics
+# Maxima Basics
 Basics for maxima
